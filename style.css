@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    width: auto;
+    margin: 0 auto;
+}
+
+td {
+    border: black solid thin;
+    font-size: 80px;
+    padding: 0;
+    background: rgb(216, 214, 214);
+}
+
+#display {
+    text-align: right;
+    background: white;
+}
+
+button {
+    font-size: inherit;
+    padding: 20px;
+    margin: 0 auto;
+    background: inherit;
+    border: none;
+}
+
+#operator {
+    background: white;
+    border: none;
+    font-size: 30px;
+    padding-left: 10px;
+}
